@@ -1,0 +1,9 @@
+*://*.bilibili.cn/*
+*://*.csdn.net/*
+*://*.gitee.com/*
+*://*.google.com/maps*
+*://*.google.com/mymaps/*
+*://*.moegirl.org.cn/*
+*://*.moegirl.tw/*
+*://*.qq.com/*
+*://*.weibo.cn/*
