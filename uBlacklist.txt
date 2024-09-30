@@ -1,5 +1,10 @@
+*://*.360doc.com/*
+*://*.baidu.com/*
 *://*.bilibili.cn/*
+*://*.cn-baidu.org/*
 *://*.csdn.net/*
+*://*.cybernews.com/*
+*://*.douyin.com/*
 *://*.gitee.com/*
 *://*.google.com/maps*
 *://*.google.com/mymaps/*
