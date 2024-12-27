@@ -4,6 +4,7 @@
 *://*.baike.com/*
 *://*.bilibili.cn/*
 *://*.cn-baidu.org/*
+*://*.cn/*
 *://*.cnblogs.com/*
 *://*.csdn.net/*
 *://*.cybernews.com/*
