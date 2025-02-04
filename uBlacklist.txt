@@ -1,8 +1,10 @@
 *://*.360doc.com/*
+*://*.aliyun.com/*
 *://*.baidu.com/*
 *://*.baidu.hk/*
 *://*.baike.com/*
 *://*.bilibili.cn/*
+*://*.boce.com/*
 *://*.cn-baidu.org/*
 *://*.cn/*
 *://*.cnblogs.com/*
@@ -13,12 +15,15 @@
 *://*.gitee.com/*
 *://*.google.com/maps*
 *://*.google.com/mymaps/*
+*://*.greypanel.com/*
 *://*.juejin.cn/*
+*://*.mfpad.com/*
 *://*.moegirl.org.cn/*
 *://*.moegirl.tw/*
 *://*.nixos.wiki/*
 *://*.qq.com/*
 *://*.reddit.com/*
+*://*.redirhub.com/*
 *://*.smzdm.com/*
 *://*.sogou.com/*
 *://*.tencent.com/*
